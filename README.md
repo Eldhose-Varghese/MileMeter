@@ -4,6 +4,8 @@
 
 **MileMeter** is a sleek and user-friendly desktop application built using Tkinter and ttkbootstrap, designed to effortlessly convert miles to kilometers. With its modern and intuitive user interface, this app provides a seamless experience for users who need quick and accurate distance conversions.
 
+![user-interface](https://github.com/Eldhose-Varghese/MileMeter/blob/master/ui.png)
+
 ## Features
 
 - **Simple Conversion:** Easily convert miles to kilometers with just a few clicks.
